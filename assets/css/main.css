@@ -2710,7 +2710,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/pink-balloons.jpg"), url("../../images/header.jpg");
+			background-image: url("images/suburbs.png"), url("../../images/suburbs.png");
 			background-size: auto,							cover;
 		}
 
@@ -2951,7 +2951,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: "images/pink-balloons.jpg";
 			content: '';
 			height: 100%;
 			left: 0;
