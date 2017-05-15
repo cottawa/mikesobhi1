@@ -7,9 +7,10 @@
 .video-featured {
   width: 100%;
   height: 25vw;
+}
 
 .img-block2 {
   display: block;
   margin: 0 0 2em 0;
-  width: 40%;
+  width: 75%;
 }
