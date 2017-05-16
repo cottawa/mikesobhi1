@@ -2836,6 +2836,7 @@
 		#header .button {
 			box-shadow: inset 0 0 0 1px #ffffff;
 			color: #ffffff !important;
+			margin-top: -3%
 		}
 
 			#header input[type="submit"]:hover,
