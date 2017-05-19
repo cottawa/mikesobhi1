@@ -2710,7 +2710,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/view.jpg");
+			background-image: url("images/overlay1.png"), url("../../images/pink-balloons.jpg");
 			background-size: auto,							cover;
 		}
 
@@ -2801,7 +2801,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), url("../../images/pink-balloons.jpg");
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), url("../../images/view.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -2952,7 +2952,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: url("../../images/pink-balloons.jpg");
+			background-image: url("../../images/view.jpg");
 			content: '';
 			height: 100%;
 			left: 0;
