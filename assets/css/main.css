@@ -2801,7 +2801,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed;
-		background-image: url("images/overlay1.png"), url("./images/pinkballoons2.png");
+		background-image: url("images/overlay1.png"), url("../../images/pinkballoons2.png");
 		background-position: top left,									center center;
 		background-size: auto,													cover;
 		overflow: hidden;
@@ -2952,7 +2952,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: url("images/pinkballoons2.png");
+			background-image: url("../../images/pinkballoons2.png");
 			content: '';
 			height: 100%;
 			left: 0;
