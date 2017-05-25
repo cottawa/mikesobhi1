@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
@@ -94,5 +93,4 @@
 
 	});
 
->>>>>>> 6f813caed304b6d134b9c4fe09c51fdfc895bd7c
 })(jQuery);
