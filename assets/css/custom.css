@@ -42,3 +42,7 @@ html,body {
 .slider-wrapper > .slide:first-child {
 	opacity: 1;
 }
+
+.main2.5 {
+  padding: 0em 0 0em 0 ;
+}
