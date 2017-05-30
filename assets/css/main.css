@@ -2375,8 +2375,8 @@
 		}
 
 			ul.icons li {
-				display: block;
-				padding: 1em 1.25em 0 0;
+				display: inline-block;
+				padding: 0 1.25em 0 0;
 			}
 
 				ul.icons li:last-child {
@@ -2710,7 +2710,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/living-room-2167261_1920.jpg");
+			background-image: url("images/overlay1.png"), url("../../images/living-room-1643855_1920.jpg");
 			background-size: auto,							cover;
 		}
 
