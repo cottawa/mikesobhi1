@@ -83,5 +83,9 @@ html,body {
   .miketitle {
     font-size: 3em;
   }
+
+  .form-mobile {
+    width: 100%
+  }
 }
 
