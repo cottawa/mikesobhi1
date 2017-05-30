@@ -74,12 +74,16 @@ html,body {
   display: block;
   float: left !important;
   width: 50%;
+  text-align: left;
+  padding-right: 1em;
 }
 
 .contact-two {
   display: block;
   float: right !important;
   width: 50%;
+  text-align: left;
+  padding-left: 1em;
 }
 
 @media screen and (max-width: 736px) {
@@ -126,6 +130,7 @@ html,body {
     display: block;
     float: none;
     width: 100%;
+    text-align: left;
   }
 }
 
