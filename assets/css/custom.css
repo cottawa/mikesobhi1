@@ -86,6 +86,11 @@ html,body {
   padding-left: 1em;
 }
 
+strong1 {
+  color: #fff;
+  font-weight: 400;
+}
+
 @media screen and (max-width: 736px) {
   .slider {
   	width: 100%;
