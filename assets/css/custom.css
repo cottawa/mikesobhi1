@@ -85,7 +85,9 @@ html,body {
   }
 
   .form-mobile {
-    width: 200% !important;
+    float: none;
+    margin-right:0;
+    width:auto;
   }
 }
 
