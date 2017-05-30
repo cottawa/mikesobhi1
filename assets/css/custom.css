@@ -60,6 +60,26 @@ html,body {
   font-size: 5em;
 }
 
+.form-mobile {
+  width: 100%;
+  float: none;
+}
+
+.formfields {
+  width: 200% !important;
+  float: none;
+}
+
+.contact-one {
+  display: block;
+  float: left;
+}
+
+.contact-two {
+  display: block;
+  float: right;
+}
+
 @media screen and (max-width: 736px) {
   .slider {
   	width: 100%;
@@ -94,7 +114,13 @@ html,body {
     float: none;
   }
 
-  .contactform {
+  .contact-one {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+
+  .contact-two {
     display: block;
     float: none;
     width: 100%;
