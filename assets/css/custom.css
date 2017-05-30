@@ -73,11 +73,13 @@ html,body {
 .contact-one {
   display: block;
   float: left !important;
+  width: 50%;
 }
 
 .contact-two {
   display: block;
   float: right !important;
+  width: 50%;
 }
 
 @media screen and (max-width: 736px) {
