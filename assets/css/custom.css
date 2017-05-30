@@ -52,6 +52,10 @@ html,body {
   max-width:75%;
 }
 
+.balloon {
+  max-width: 5%
+}
+
 @media screen and (max-width: 736px) {
   .slider {
   	width: 100%;
@@ -67,4 +71,9 @@ html,body {
   	height: 50vh;
     display: block;
   }
+
+  .balloon {
+    max-width: 10%
+  }
 }
+
