@@ -56,6 +56,10 @@ html,body {
   max-width: 5%
 }
 
+.miketitle {
+  font-size: 5em;
+}
+
 @media screen and (max-width: 736px) {
   .slider {
   	width: 100%;
@@ -73,7 +77,11 @@ html,body {
   }
 
   .balloon {
-    max-width: 10%
+    max-width: 15%
+  }
+
+  .miketitle {
+    font-size: 3em;
   }
 }
 
